@@ -13,10 +13,22 @@
             ]
         },
         {
+            "title": "Test-time backdoor mitigation for black-box large language models with defensive demonstrations",
+            "authors": ["Wenjie Mo","Jiashu Xu", "Qin Liu", "Jiongxiao Wang", "Jun Yan", "Hadi Askari", "Chaowei Xiao", "Muhao Chen"],
+            "venue": "NAACL-Findings",
+            "year": 2025,
+            "urls": [
+                {
+                    "name": "paper",
+                    "url": "https://arxiv.org/pdf/2311.09763"
+                }
+            ]
+        },
+        {
             "title": "Assessing LLMs for Zero-shot Abstractive Summarization Through the Lens of Relevance Paraphrasing",
             "authors": ["H Askari", "A Chhabra", "M Chen", "P Mohapatra"],
-            "venue": "arXiv preprint",
-            "year": 2024,
+            "venue": "NAACL-Findings",
+            "year": 2025,
             "urls": [
                 {
                     "name": "paper",
@@ -63,7 +75,17 @@
     ],
     "news": [
         {
-            "content": "Presented at <em>Trust & Safety Research Conference</em> at Stanford University.",
+            "content": "<em>Test-time backdoor mitigation for black-box large language models with defensive demonstrations<em> was accepted at NAACL-Findings'25.",
+            "month": "Jan",
+            "year": 2025
+        },
+        {
+            "content": "<em>Assessing LLMs for Zero-shot Abstractive Summarization Through the Lens of Relevance Paraphrasing<em> was accepted at NAACL-Findings'25.",
+            "month": "Jan",
+            "year": 2025
+        },
+        {
+            "content": "Presented <em>Incentivizing news consumption on social media platforms using large language models and realistic bot accounts<em> at the <em>Trust & Safety Research Conference</em> at Stanford University.",
             "month": "Sep",
             "year": 2024
         },
@@ -73,8 +95,18 @@
             "year": 2024
         },
         {
-            "content": "Attended the <em>Trust & Safety Research Conference</em> at Stanford University.",
-            "month": "Sep",
+            "content": "Started 3 Month Internship as a <em>Machine Learning Research Intern<em> at <em>Pinterest Research Labs.<em>",
+            "month": "June",
+            "year": 2024
+        },
+        {
+            "content": "<em>Revisiting Zero-Shot Abstractive Summarization in the Era of Large Language Models from the Perspective of Position Bias</em> was accepted at NAACL'24.",
+            "month": "Mar",
+            "year": 2024
+        },
+        {
+            "content": "Started 3 Month Internship as a <em>Machine Learning Intern<em> at the <em>Comcast Media Analytics Team.<em>",
+            "month": "June",
             "year": 2023
         },
         {
@@ -95,6 +127,11 @@
         {
             "content": "Presented at the <em>UC Davis Noyce Workshop</em>.",
             "month": "Oct",
+            "year": 2022
+        },
+        {
+            "content": "Started 3 Month Internship as a <em>Machine Learning Intern<em> at the <em>Comcast Media Analytics Team.<em>",
+            "month": "June",
             "year": 2022
         },
         {

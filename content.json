@@ -14,7 +14,7 @@
         },
         {
             "title": "Test-time backdoor mitigation for black-box large language models with defensive demonstrations",
-            "authors": ["Wenjie Mo","Jiashu Xu", "Qin Liu", "Jiongxiao Wang", "Jun Yan", "Hadi Askari", "Chaowei Xiao", "Muhao Chen"],
+            "authors": ["W Mo","J Xu", "Q Liu", "J Wang", "J Yan", "H Askari", "C Xiao", "M Chen"],
             "venue": "NAACL-Findings",
             "year": 2025,
             "urls": [

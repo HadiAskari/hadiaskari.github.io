@@ -1,6 +1,18 @@
 {
     "publications": [
         {
+            "title": "LayerIF: Estimating Layer Quality for Large Language Models using Influence Functions",
+            "authors": ["H Askari", "S Gupta", "F Wang", "A Chhabra", "M Chen"],
+            "venue": "Neurips 2025",
+            "year": 2025,
+            "urls": [
+                {
+                    "name": "paper",
+                    "url": "https://arxiv.org/pdf/2505.23811"
+                }
+            ]
+        },
+        {
             "title": "Unraveling Indirect In-Context Learning Using Influence Functions",
             "authors": ["H Askari", "S Gupta", "T Tong", "F Wang", "A Chhabra", "M Chen"],
             "venue": "arXiv preprint",
@@ -74,6 +86,16 @@
         }
     ],
     "news": [
+        {
+            "content": "<em>LayerIF: Estimating Layer Quality for Large Language Models using Influence Functions</em> was accepted at <em>Neurips'25.</em>",
+            "month": "Sep",
+            "year": 2025
+        },
+        {
+            "content": "<em>Started a 3 month internship at Nvidia, working on Nvidia's Deep Research Agent to generate detailed reports from multiple tools connected to their internal bug databases. </em>",
+            "month": "Jun",
+            "year": 2025
+        },
         {
             "content": "<em>Test-time backdoor mitigation for black-box large language models with defensive demonstrations</em> was accepted at <em>NAACL-Findings'25.</em>",
             "month": "Jan",

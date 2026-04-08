@@ -1,9 +1,33 @@
 {
     "publications": [
         {
+            "title": "Redcoder: Automated multi-turn red teaming for code llms",
+            "authors": ["WJ Mo", "Q Liu", "X Wen", "D Jung", "H Askari", "W Zhou", "Z Zhao", "M Chen"],
+            "venue": "ACL",
+            "year": 2026,
+            "urls": [
+                {
+                    "name": "paper",
+                    "url": "https://arxiv.org/pdf/2507.22063"
+                }
+            ]
+        }
+        {
+            "title": "FRIEDA: Benchmarking Multi-Step Cartographic Reasoning in Vision-Language Models",
+            "authors": ["J Pyo", "Y Jiao", "D Jung", "Z Li", "L Jang", "S Kirsanova", "J Kim", "Y Lin", "Q Liu", "J Xie", "H Askari", "N Xu", "M Chen", "Y Chiang"],
+            "venue": "ICLR",
+            "year": 2026,
+            "urls": [
+                {
+                    "name": "paper",
+                    "url": "https://arxiv.org/pdf/2512.08016"
+                }
+            ]
+        }
+        {
             "title": "LayerIF: Estimating Layer Quality for Large Language Models using Influence Functions",
             "authors": ["H Askari", "S Gupta", "F Wang", "A Chhabra", "M Chen"],
-            "venue": "Neurips 2025",
+            "venue": "Neurips",
             "year": 2025,
             "urls": [
                 {
@@ -86,6 +110,16 @@
         }
     ],
     "news": [
+        {
+            "content": "<em>Redcoder: Automated multi-turn red teaming for code llms</em> was accepted at <em>ACL'26.</em>",
+            "month": "Mar",
+            "year": 2026
+        },
+        {
+            "content": "<em>FRIEDA: Benchmarking Multi-Step Cartographic Reasoning in Vision-Language Models</em> was accepted at <em>ICLR'26.</em>",
+            "month": "Jan",
+            "year": 2026
+        },
         {
             "content": "<em>LayerIF: Estimating Layer Quality for Large Language Models using Influence Functions</em> was accepted at <em>Neurips'25.</em>",
             "month": "Sep",
